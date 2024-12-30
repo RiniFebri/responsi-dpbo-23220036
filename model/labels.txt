@@ -1,0 +1,3 @@
+0 anjing husky 
+1 anjing samoyed
+2 anjing pitbull
